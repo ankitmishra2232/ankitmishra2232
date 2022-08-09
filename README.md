@@ -1,7 +1,7 @@
-
+[![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/1*WI43epHjl6I6FzBVPzvXAQ.gif)](https://ankitmishra2232.github.io)
 <h1 align="center">Hi 👋, I'm Ankit</h1>
 <h3 align="center">A passionate and enthusiastic for Data Science and Machine Learning. Looking For better opportunity.</h3>
-<img align ="right" alt="Neural network" width="400" src="https://scitechdaily.com/images/Machine-Learning-AI-Concept.gif">
+<img align ="right" alt="Neural network" width="400" src="https://miro.medium.com/max/1838/1*d7QeSREErtMuJQ0bcptMXQ.gif">
 
 - 🔭 I’m currently working on **Deep Fakes Detection**
 
