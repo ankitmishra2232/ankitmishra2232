@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on **Maithili Wordnet**
 
-- 👨‍💻 All of my projects are available at [Will update Today](Will update Today)
+- 👨‍💻 All of my projects are available at [Here](https://ankitmishra2232.github.io)
 
 - 💬 Ask me about **Data Science and NLP**
 
 - 📫 How to reach me **ankitmishra.in.com@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-0zpWY1P-x4lEPO72Zd1tctA7RjyTdN7/view?usp=sharing](https://drive.google.com/file/d/1-0zpWY1P-x4lEPO72Zd1tctA7RjyTdN7/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-0zpWY1P-x4lEPO72Zd1tctA7RjyTdN7/view?usp=sharing)
 
 - ⚡ Fun fact **I Think I have a good Sense of humor**
 
