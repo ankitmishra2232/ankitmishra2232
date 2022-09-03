@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ankitmishra.in.com@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-0zpWY1P-x4lEPO72Zd1tctA7RjyTdN7/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AfNDZPKs22TigkGnjGy3WqhWZnN5DQYd/view?usp=sharing)
 
 - ⚡ Fun fact **I Think I have a good Sense of humor**
 
