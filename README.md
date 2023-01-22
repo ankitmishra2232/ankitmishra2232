@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter and Machine Learning**
 
-- 👯 I’m looking to collaborate on **Maithili Wordnet**
+- 👯 I’m looking to collaborate on **Any where realted to AI and ML**
 
 - 👨‍💻 All of my projects are available at [Here](https://ankitmishra2232.github.io)
 
