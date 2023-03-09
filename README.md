@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ankit</h1>
 <h3 align="center">A passionate and enthusiastic for Data Science and Machine Learning. Looking For better opportunity.</h3>
 
-- 🔭 I’m currently working on **Computer Vision**
+- 🔭 I’m currently working with **Afour tech** as a intern.
 
 - 🌱 I’m currently learning **Flutter and Machine Learning**
 
